@@ -1,0 +1,289 @@
+sensor_id,facility,equipment_tag,subsystem,metric,unit,nominal,alarm_low,alarm_high,trip_high,sampling_hz,calibration_status
+PT-K301A-001,Fahud,K-301A,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301A-002,Fahud,K-301A,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301A-003,Fahud,K-301A,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301A-004,Fahud,K-301A,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301A-005,Fahud,K-301A,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301A-006,Fahud,K-301A,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301A-007,Fahud,K-301A,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301A-008,Fahud,K-301A,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301A-009,Fahud,K-301A,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301A-010,Fahud,K-301A,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301A-011,Fahud,K-301A,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301A-012,Fahud,K-301A,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301B-013,Fahud,K-301B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301B-014,Fahud,K-301B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301B-015,Fahud,K-301B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301B-016,Fahud,K-301B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301B-017,Fahud,K-301B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301B-018,Fahud,K-301B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301B-019,Fahud,K-301B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301B-020,Fahud,K-301B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301B-021,Fahud,K-301B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301B-022,Fahud,K-301B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301B-023,Fahud,K-301B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301B-024,Fahud,K-301B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K102B-025,Fahud,K-102B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K102B-026,Fahud,K-102B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K102B-027,Fahud,K-102B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K102B-028,Fahud,K-102B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K102B-029,Fahud,K-102B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K102B-030,Fahud,K-102B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K102B-031,Fahud,K-102B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K102B-032,Fahud,K-102B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K102B-033,Fahud,K-102B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K102B-034,Fahud,K-102B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K102B-035,Fahud,K-102B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K102B-036,Fahud,K-102B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-GT102-037,Fahud,GT-102,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-GT102-038,Fahud,GT-102,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-GT102-039,Fahud,GT-102,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-GT102-040,Fahud,GT-102,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-GT102-041,Fahud,GT-102,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-GT102-042,Fahud,GT-102,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-GT102-043,Fahud,GT-102,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-GT102-044,Fahud,GT-102,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-GT102-045,Fahud,GT-102,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-GT102-046,Fahud,GT-102,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-GT102-047,Fahud,GT-102,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-GT102-048,Fahud,GT-102,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301A-049,Marmul,K-301A,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301A-050,Marmul,K-301A,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301A-051,Marmul,K-301A,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301A-052,Marmul,K-301A,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301A-053,Marmul,K-301A,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301A-054,Marmul,K-301A,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301A-055,Marmul,K-301A,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301A-056,Marmul,K-301A,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301A-057,Marmul,K-301A,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301A-058,Marmul,K-301A,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301A-059,Marmul,K-301A,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301A-060,Marmul,K-301A,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301B-061,Marmul,K-301B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301B-062,Marmul,K-301B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301B-063,Marmul,K-301B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301B-064,Marmul,K-301B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301B-065,Marmul,K-301B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301B-066,Marmul,K-301B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301B-067,Marmul,K-301B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301B-068,Marmul,K-301B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301B-069,Marmul,K-301B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301B-070,Marmul,K-301B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301B-071,Marmul,K-301B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301B-072,Marmul,K-301B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K102B-073,Marmul,K-102B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K102B-074,Marmul,K-102B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K102B-075,Marmul,K-102B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K102B-076,Marmul,K-102B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K102B-077,Marmul,K-102B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K102B-078,Marmul,K-102B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K102B-079,Marmul,K-102B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K102B-080,Marmul,K-102B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K102B-081,Marmul,K-102B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K102B-082,Marmul,K-102B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K102B-083,Marmul,K-102B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K102B-084,Marmul,K-102B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-GT102-085,Marmul,GT-102,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-GT102-086,Marmul,GT-102,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-GT102-087,Marmul,GT-102,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-GT102-088,Marmul,GT-102,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-GT102-089,Marmul,GT-102,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-GT102-090,Marmul,GT-102,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-GT102-091,Marmul,GT-102,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-GT102-092,Marmul,GT-102,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-GT102-093,Marmul,GT-102,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-GT102-094,Marmul,GT-102,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-GT102-095,Marmul,GT-102,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-GT102-096,Marmul,GT-102,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301A-097,Nimr,K-301A,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301A-098,Nimr,K-301A,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301A-099,Nimr,K-301A,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301A-100,Nimr,K-301A,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301A-101,Nimr,K-301A,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301A-102,Nimr,K-301A,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301A-103,Nimr,K-301A,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301A-104,Nimr,K-301A,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301A-105,Nimr,K-301A,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301A-106,Nimr,K-301A,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301A-107,Nimr,K-301A,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301A-108,Nimr,K-301A,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301B-109,Nimr,K-301B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301B-110,Nimr,K-301B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301B-111,Nimr,K-301B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301B-112,Nimr,K-301B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301B-113,Nimr,K-301B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301B-114,Nimr,K-301B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301B-115,Nimr,K-301B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301B-116,Nimr,K-301B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301B-117,Nimr,K-301B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301B-118,Nimr,K-301B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301B-119,Nimr,K-301B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301B-120,Nimr,K-301B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K102B-121,Nimr,K-102B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K102B-122,Nimr,K-102B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K102B-123,Nimr,K-102B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K102B-124,Nimr,K-102B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K102B-125,Nimr,K-102B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K102B-126,Nimr,K-102B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K102B-127,Nimr,K-102B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K102B-128,Nimr,K-102B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K102B-129,Nimr,K-102B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K102B-130,Nimr,K-102B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K102B-131,Nimr,K-102B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K102B-132,Nimr,K-102B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-GT102-133,Nimr,GT-102,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-GT102-134,Nimr,GT-102,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-GT102-135,Nimr,GT-102,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-GT102-136,Nimr,GT-102,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-GT102-137,Nimr,GT-102,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-GT102-138,Nimr,GT-102,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-GT102-139,Nimr,GT-102,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-GT102-140,Nimr,GT-102,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-GT102-141,Nimr,GT-102,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-GT102-142,Nimr,GT-102,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-GT102-143,Nimr,GT-102,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-GT102-144,Nimr,GT-102,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301A-145,Lekhwair,K-301A,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301A-146,Lekhwair,K-301A,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301A-147,Lekhwair,K-301A,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301A-148,Lekhwair,K-301A,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301A-149,Lekhwair,K-301A,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301A-150,Lekhwair,K-301A,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301A-151,Lekhwair,K-301A,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301A-152,Lekhwair,K-301A,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301A-153,Lekhwair,K-301A,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301A-154,Lekhwair,K-301A,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301A-155,Lekhwair,K-301A,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301A-156,Lekhwair,K-301A,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301B-157,Lekhwair,K-301B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301B-158,Lekhwair,K-301B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301B-159,Lekhwair,K-301B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301B-160,Lekhwair,K-301B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301B-161,Lekhwair,K-301B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301B-162,Lekhwair,K-301B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301B-163,Lekhwair,K-301B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301B-164,Lekhwair,K-301B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301B-165,Lekhwair,K-301B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301B-166,Lekhwair,K-301B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301B-167,Lekhwair,K-301B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301B-168,Lekhwair,K-301B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K102B-169,Lekhwair,K-102B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K102B-170,Lekhwair,K-102B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K102B-171,Lekhwair,K-102B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K102B-172,Lekhwair,K-102B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K102B-173,Lekhwair,K-102B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K102B-174,Lekhwair,K-102B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K102B-175,Lekhwair,K-102B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K102B-176,Lekhwair,K-102B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K102B-177,Lekhwair,K-102B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K102B-178,Lekhwair,K-102B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K102B-179,Lekhwair,K-102B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K102B-180,Lekhwair,K-102B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-GT102-181,Lekhwair,GT-102,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-GT102-182,Lekhwair,GT-102,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-GT102-183,Lekhwair,GT-102,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-GT102-184,Lekhwair,GT-102,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-GT102-185,Lekhwair,GT-102,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-GT102-186,Lekhwair,GT-102,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-GT102-187,Lekhwair,GT-102,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-GT102-188,Lekhwair,GT-102,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-GT102-189,Lekhwair,GT-102,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-GT102-190,Lekhwair,GT-102,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-GT102-191,Lekhwair,GT-102,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-GT102-192,Lekhwair,GT-102,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301A-193,Yibal,K-301A,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301A-194,Yibal,K-301A,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301A-195,Yibal,K-301A,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301A-196,Yibal,K-301A,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301A-197,Yibal,K-301A,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301A-198,Yibal,K-301A,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301A-199,Yibal,K-301A,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301A-200,Yibal,K-301A,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301A-201,Yibal,K-301A,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301A-202,Yibal,K-301A,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301A-203,Yibal,K-301A,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301A-204,Yibal,K-301A,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301B-205,Yibal,K-301B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301B-206,Yibal,K-301B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301B-207,Yibal,K-301B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301B-208,Yibal,K-301B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301B-209,Yibal,K-301B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301B-210,Yibal,K-301B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301B-211,Yibal,K-301B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301B-212,Yibal,K-301B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301B-213,Yibal,K-301B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301B-214,Yibal,K-301B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301B-215,Yibal,K-301B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301B-216,Yibal,K-301B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K102B-217,Yibal,K-102B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K102B-218,Yibal,K-102B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K102B-219,Yibal,K-102B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K102B-220,Yibal,K-102B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K102B-221,Yibal,K-102B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K102B-222,Yibal,K-102B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K102B-223,Yibal,K-102B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K102B-224,Yibal,K-102B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K102B-225,Yibal,K-102B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K102B-226,Yibal,K-102B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K102B-227,Yibal,K-102B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K102B-228,Yibal,K-102B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-GT102-229,Yibal,GT-102,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-GT102-230,Yibal,GT-102,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-GT102-231,Yibal,GT-102,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-GT102-232,Yibal,GT-102,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-GT102-233,Yibal,GT-102,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-GT102-234,Yibal,GT-102,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-GT102-235,Yibal,GT-102,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-GT102-236,Yibal,GT-102,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-GT102-237,Yibal,GT-102,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-GT102-238,Yibal,GT-102,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-GT102-239,Yibal,GT-102,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-GT102-240,Yibal,GT-102,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301A-241,Qarn Alam,K-301A,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301A-242,Qarn Alam,K-301A,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301A-243,Qarn Alam,K-301A,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301A-244,Qarn Alam,K-301A,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301A-245,Qarn Alam,K-301A,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301A-246,Qarn Alam,K-301A,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301A-247,Qarn Alam,K-301A,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301A-248,Qarn Alam,K-301A,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301A-249,Qarn Alam,K-301A,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301A-250,Qarn Alam,K-301A,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301A-251,Qarn Alam,K-301A,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301A-252,Qarn Alam,K-301A,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K301B-253,Qarn Alam,K-301B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K301B-254,Qarn Alam,K-301B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K301B-255,Qarn Alam,K-301B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K301B-256,Qarn Alam,K-301B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K301B-257,Qarn Alam,K-301B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K301B-258,Qarn Alam,K-301B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K301B-259,Qarn Alam,K-301B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K301B-260,Qarn Alam,K-301B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K301B-261,Qarn Alam,K-301B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K301B-262,Qarn Alam,K-301B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K301B-263,Qarn Alam,K-301B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K301B-264,Qarn Alam,K-301B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-K102B-265,Qarn Alam,K-102B,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-K102B-266,Qarn Alam,K-102B,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-K102B-267,Qarn Alam,K-102B,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-K102B-268,Qarn Alam,K-102B,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-K102B-269,Qarn Alam,K-102B,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-K102B-270,Qarn Alam,K-102B,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-K102B-271,Qarn Alam,K-102B,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-K102B-272,Qarn Alam,K-102B,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-K102B-273,Qarn Alam,K-102B,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-K102B-274,Qarn Alam,K-102B,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-K102B-275,Qarn Alam,K-102B,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-K102B-276,Qarn Alam,K-102B,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID
+PT-GT102-277,Qarn Alam,GT-102,Core Turbomachinery,Suction Pressure,kPa(g),1350.0,1150.0,1550.0,1750.0,10,CERTIFIED_VALID
+PT-GT102-278,Qarn Alam,GT-102,Core Turbomachinery,Discharge Pressure,kPa(g),7050.0,6200.0,7450.0,7850.0,10,CERTIFIED_VALID
+TT-GT102-279,Qarn Alam,GT-102,Core Turbomachinery,Suction Temperature,degC,41.5,25.0,52.0,60.0,2,CERTIFIED_VALID
+TT-GT102-280,Qarn Alam,GT-102,Core Turbomachinery,Discharge Temperature,degC,124.0,95.0,145.0,158.0,2,CERTIFIED_VALID
+VT-GT102-281,Qarn Alam,GT-102,Core Turbomachinery,DE Radial Vibration,um pk-pk,18.5,0.0,38.0,52.0,100,CERTIFIED_VALID
+VT-GT102-282,Qarn Alam,GT-102,Core Turbomachinery,NDE Radial Vibration,um pk-pk,16.2,0.0,38.0,52.0,100,CERTIFIED_VALID
+FT-GT102-283,Qarn Alam,GT-102,Core Turbomachinery,Primary Seal Vent Flow,Nm3/hr,14.5,0.0,45.0,90.0,1,CERTIFIED_VALID
+PDT-GT102-284,Qarn Alam,GT-102,Core Turbomachinery,Lube Oil Filter DP,bar,0.65,0.0,1.5,2.0,2,CERTIFIED_VALID
+TT-GT102-285,Qarn Alam,GT-102,Core Turbomachinery,Lube Oil Header Temp,degC,48.0,38.0,62.0,70.0,1,CERTIFIED_VALID
+PT-GT102-286,Qarn Alam,GT-102,Core Turbomachinery,Lube Oil Supply Pressure,bar(g),2.8,1.8,3.4,1.2,10,CERTIFIED_VALID
+ST-GT102-287,Qarn Alam,GT-102,Core Turbomachinery,Power Turbine Speed (N2),RPM,14650.0,12000.0,15200.0,15650.0,100,CERTIFIED_VALID
+TT-GT102-288,Qarn Alam,GT-102,Core Turbomachinery,Turbine Exhaust Temp (T7),degC,528.0,420.0,575.0,610.0,20,CERTIFIED_VALID

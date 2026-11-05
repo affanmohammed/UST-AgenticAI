@@ -1,0 +1,144 @@
+================================================================================
+UST GLOBAL ENTERPRISE OPERATIONS
+CORPORATE GOVERNANCE, ESG, AND REGULATORY COMPLIANCE MANDATES
+Document ID: UST-GOV-ESG-2026-REV4 | Classification: Enterprise Regulatory Standard
+Custodian: Directorate of Health, Safety, Environment, and Corporate Integrity
+Co-developed with: UST Global Governance, Risk, and Compliance (GRC) Practice
+Effective: 01-Jan-2026 to 31-Dec-2028 | Jurisdiction: Sultanate of Oman
+================================================================================
+
+SECTION 1: EXECUTIVE CHARTER AND ENERGY TRANSITION DECARBONIZATION TARGETS
+1.1 Decarbonization Roadmap to Net-Zero 2050
+UST Global (UST), in alignment with Oman Vision 2040 and international greenhouse gas abatement commitments, establishes a binding corporate carbon reduction pathway. All asset operating centers (including Fahud, Marmul, Nimr, Lekhwair, Yibal, Qarn Alam, and Mina Al Fahal) are held to legally binding emission trajectories.
+- By 2030: Mandatory 50% absolute reduction in Scope 1 and Scope 2 carbon dioxide equivalent (CO2e) emissions against the 2019 baseline.
+- By 2040: 80% reduction in greenhouse gas operational intensity, transitioning baseline thermal power generation to green hydrogen and grid-scale solar photovoltaic arrays.
+- By 2050: Certified Net-Zero carbon operations across all concession blocks.
+
+1.2 Capital Allocation and Green Investments
+A non-negotiable minimum of 24% of annual corporate capital expenditure (CAPEX) must be ring-fenced exclusively for low-carbon technologies, industrial electrification, high-efficiency turbomachinery replacements, and CCUS (Carbon Capture, Utilization, and Storage) pilot projects.
+
+--------------------------------------------------------------------------------
+SECTION 2: METHANE ABATEMENT, LDAR PROTOCOLS, AND OPTICAL GAS IMAGING
+2.1 Zero Routine Methane Emissions Mandate
+Methane constitutes a potent greenhouse gas with a global warming potential 28 times greater than CO2 over a 100-year horizon. Under Ministerial Decree 104/2025, fugitive methane emissions from all compression, processing, and transportation facilities are subject to strict financial penalties:
+- Standard penalty tariff: OMR 450 (USD 1,170) per metric ton of un-combusted methane released into the atmosphere.
+- Continuous zero-tolerance threshold: Intentional venting of hydrocarbons during routine maintenance or pipeline pigging is strictly prohibited. Gas must be routed to flare, recycled through vapor recovery units (VRU), or re-injected.
+
+2.2 Optical Gas Imaging (OGI) and Leak Detection and Repair (LDAR)
+All field stations must execute mandatory monthly LDAR inspection sweeps using FLIR GF320 optical gas imaging cameras and drone-mounted tunable diode laser absorption spectroscopy (TDLAS):
+- Any fugitive leak exceeding 500 ppm volumetric concentration must be tagged in SAP PM within 2 hours.
+- Mechanical clamping or packing adjustment must be executed within 24 hours of discovery.
+- Permanent certified engineering repair must be completed within 7 calendar days.
+
+--------------------------------------------------------------------------------
+SECTION 3: ROUTINE FLARING ELIMINATION AND COMBUSTION EFFICIENCY
+3.1 World Bank Zero Routine Flaring by 2030 Initiative
+UST has been an official signatory to the World Bank Zero Routine Flaring initiative since 2017. All production and gas processing facilities must eliminate routine production flaring by 31-December-2026:
+- Non-routine safety emergency flaring must achieve a minimum verified combustion efficiency of 98.5%.
+- Flare tip steam or air-assist ratios must be continuously monitored via infrared pyrometry and optical flare meters (Fluenta FGM series).
+- Monthly flaring volume allocations are capped at 0.42 million standard cubic meters per facility. Excursions above this limit incur a statutory surcharge of OMR 120,000 per occurrence.
+
+--------------------------------------------------------------------------------
+SECTION 4: WATER STEWARDSHIP, PRODUCED WATER MANAGEMENT, AND NIMR REED BEDS
+4.1 Produced Water Treatment and Deep-Well Disposal Minimization
+Oil production operations across South Oman generate approximately 950,000 cubic meters of produced water daily. To eliminate deep-well disposal and protect local aquifers:
+- Nimr Water Treatment Project (NWTP): Operates the world's largest commercial wetland produced water treatment facility, utilizing 1,350 hectares of engineered reed beds (Phragmites australis) and evaporation ponds.
+- Reed-bed gravity treatment treats over 175,000 m3/day of produced water without electric power consumption, reducing corporate carbon emissions by 240,000 metric tons of CO2e annually compared to conventional deep-well disposal pumps.
+- Heavy hydrocarbon concentration in effluent discharged to salt flats must not exceed 0.5 mg/L.
+
+4.2 Groundwater Protection and Reverse Osmosis Recycling
+At Fahud and Marmul central processing stations, treated produced water is desalinated through multi-stage industrial reverse osmosis (RO) plants to supply 100% of industrial wash water, turbine inlet air evaporative cooling water, and domestic field camp requirements. Zero fresh potable water from municipal aquifers may be used for industrial operations.
+
+--------------------------------------------------------------------------------
+SECTION 5: CONTRACTOR HEALTH, SAFETY, AND ENVIRONMENT (HSE) AUDITS
+5.1 Contractor Safety Management System (CSMS)
+Over 70% of field operations are executed by third-party contractor personnel. All contractor and vendor partners must hold valid, active Level 1 CSMS pre-qualification certifications audited annually by UST's Directorate of HSE:
+- Contractors must maintain a Total Recordable Injury Frequency (TRIF) of less than 0.22 per million man-hours.
+- Any contractor experiencing a Lost Time Injury (LTI) is immediately subject to mandatory stop-work orders and formal joint investigation.
+- Mandatory compliance with UST's Life-Saving Rules (12 non-negotiable safety rules governing work at height, energy isolation, confined space entry, and driving safety).
+
+5.2 Vehicle Safety and In-Vehicle Monitoring System (IVMS)
+Driving in desert operational concession blocks represents the single largest historical safety risk:
+- All company and contractor vehicles must be equipped with certified satellite In-Vehicle Monitoring Systems (IVMS).
+- Maximum speed limits are electronically capped: 100 km/h on paved concession highways, 70 km/h on graded desert tracks, and 30 km/h inside facility battery limits.
+- Any recorded over-speeding event exceeding 5 minutes or driver fatigue alert results in automatic 30-day driver permit suspension.
+
+--------------------------------------------------------------------------------
+SECTION 6: CORPORATE ETHICS, WHISTLEBLOWING, AND ANTI-BRIBERY
+6.1 Zero-Tolerance Anti-Bribery and Corruption (ABC) Policy
+UST operates under strict compliance with the Sultanate of Oman Anti-Corruption and State Audit Law (Royal Decree 111/2011) and international anti-bribery standards (ISO 37001):
+- Employees, directors, and contractors are strictly prohibited from offering, soliciting, or accepting any gift, hospitality, commission, or financial inducement exceeding a nominal value of OMR 25.
+- All high-value procurement tenders exceeding OMR 250,000 must undergo independent integrity due-diligence review by the Directorate of Internal Audit and State Financial and Administrative State Audit Institution (SAI).
+
+6.2 Independent Whistleblower Hotline and Protection
+An independent third-party whistleblower hotline (managed externally in Zurich, Switzerland) is available 24/7/365 to all employees, contractors, and local community members:
+- Toll-free hotline: 800-7-9999 (Oman) / International: +41-44-800-9900
+- Secure web portal: https://integrity.ust.com
+- Absolute confidentiality and statutory non-retaliation protection are legally guaranteed for any bona fide report of safety breaches, financial irregularity, harassment, or environmental non-compliance.
+
+--------------------------------------------------------------------------------
+SECTION 7: IN-COUNTRY VALUE (ICV) AND OMANIZATION EMPLOYMENT MANDATES
+7.1 National Workforce Development and Omanization Quotas
+In accordance with Ministerial Decision 22/2026, all operational concession holders must maintain progressive, verified Omanization employment quotas:
+- Tier-1 Field Engineering and Maintenance Teams: Minimum 68.0% verified Omani technical personnel.
+- Corporate, Finance, Digital, and Administrative Services: Minimum 85.0% verified Omani professionals.
+- Executive Leadership and Station Superintendents: Minimum 90.0% verified Omani national leadership.
+- Failure to achieve annual quota metrics results in statutory penalties of OMR 1,500 per unfulfilled quota role and forfeiture of state tax incentives.
+
+7.2 In-Country Value (ICV) Local Sourcing
+All engineering procurement must prioritize local suppliers and Omani manufacturers (Made in Oman):
+- At least 42% of total supply chain procurement spend must be awarded to registered Omani Small and Medium Enterprises (Riyada).
+- Mandatory inclusion of ICV scoring matrices (weighted at 30% of total commercial evaluation) in all major engineering contracts.
+
+--------------------------------------------------------------------------------
+SECTION 8: STATUTORY COMPLIANCE REGISTRY & APPOINTED EXECUTIVE CUSTODIANS
+(Note for Compliance Auditing & Lab 08 PII Anonymization Testing: The following personnel
+hold statutory civil and environmental accountability under Oman Ministry of Energy & Minerals laws)
+
+1. Executive Custodian — Health, Safety, and Environment:
+   Full Name: Dr. Salim bin Mohammed Al-Harthy
+   National Civil ID: OM-8492019-FHD
+   Employee Badge ID: UST-EMP-40912
+   Corporate Role: Director of Corporate HSE & Process Safety
+   Email: salim.alharthy@ust.com
+   Mobile Direct: +968 9942 8172 | Office Desk: +968 2467 4091
+   Duty Station: UST Global Infrastructure Headquarters, Building 4, Floor 3
+
+2. Senior Environmental & Methane Abatement Superintendent:
+   Full Name: Eng. Maryam bint Khalfan Al-Balushi
+   National Civil ID: OM-9128473-MCT
+   Employee Badge ID: UST-EMP-58204
+   Corporate Role: Lead Environmental Auditor & Methane Abatement Specialist
+   Email: maryam.albalushi@ust.com
+   Mobile Direct: +968 9821 4490 | Office Desk: +968 2467 5820
+   Duty Station: Fahud Central Processing Facility, Admin Block B
+
+3. Field Operations Safety Lead — South Oman Assets:
+   Full Name: Tariq bin Rashid Al-Mandhari
+   National Civil ID: OM-7829104-MRM
+   Employee Badge ID: UST-EMP-33910
+   Corporate Role: Field Operations Superintendent & CSMS Compliance Officer
+   Email: tariq.almandhari@ust.com
+   Mobile Direct: +968 9711 6302 | Office Desk: +968 2467 3391
+   Duty Station: Marmul Operations Station, Control Building C-10
+
+4. In-Country Value (ICV) & Workforce Omanization Coordinator:
+   Full Name: Fatma bint Nasser Al-Shehhi
+   National Civil ID: OM-9481023-KHB
+   Employee Badge ID: UST-EMP-62941
+   Corporate Role: Corporate In-Country Value and Human Capital Lead
+   Email: fatma.alshehhi@ust.com
+   Mobile Direct: +968 9540 2289 | Office Desk: +968 2467 6294
+   Duty Station: UST Global Infrastructure Headquarters, Building 2, Floor 1
+
+5. Senior Turbomachinery Systems Integrity Advisor (UST Global):
+   Full Name: David Alan Richardson
+   Passport Number: UK-902184729
+   Corporate Role: UST Global Principal AI & Industrial Systems Architect
+   Email: david.richardson@ust.com
+   Mobile Direct: +968 9140 7731 | Office Desk: +968 2467 9140
+   Duty Station: Muscat Digital Innovation Hub & Fahud Field Lab
+
+================================================================================
+END OF ESG AND REGULATORY COMPLIANCE DIRECTIVE — UST-GOV-ESG-2026-REV4
+================================================================================
